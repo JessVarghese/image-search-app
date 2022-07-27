@@ -2,6 +2,7 @@
   "name": "image-search-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jessvarghese.github.io/image-search-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
